@@ -1,0 +1,24 @@
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\bin\Debug\atividade 2.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\bin\Debug\atividade 2.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\bin\Debug\atividade 2.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\obj\Debug\atividade 2.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\obj\Debug\atividade_2.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\obj\Debug\atividade_2.TelaCadastroChamado.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\obj\Debug\atividade_2.TelaLogin.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\obj\Debug\atividade 2.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\obj\Debug\atividade 2.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\obj\Debug\atividade 2.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\ATIVIDADE COM BANCO DE DADOS\atividade 2\bin\Debug\MySql.Data.dll
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\obj\Debug\atividade 2.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\obj\Debug\atividade_2.TelaCadastroChamado.resources
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\obj\Debug\atividade_2.TelaLogin.resources
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\obj\Debug\atividade 2.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\obj\Debug\atividade 2.exe
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\obj\Debug\atividade_2.TelaCadastro.resources
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\bin\Debug\atividade 2.exe.config
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\bin\Debug\atividade 2.exe
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\bin\Debug\atividade 2.pdb
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\bin\Debug\MySql.Data.dll
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\bin\Debug\System.Memory.dll
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\atividade_2\atividade 2\obj\Debug\atividade 2.pdb
